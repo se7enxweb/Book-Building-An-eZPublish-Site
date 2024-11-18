@@ -12,7 +12,7 @@ Feel free to make a suggestion via project discussions!
 
 ## PDF
 
-Read the book [online](https://raw.githubusercontent.com/se7enxweb/Book-Building-An-eZPublish-Site/master/building-an-ezpubilsh-site-in-2003.pdf), [download](https://raw.githubusercontent.com/se7enxweb/Book-Building-An-eZPublish-Site/master/building-an-ezpubilsh-site-in-2003.pdf) or print the book.
+Read the book [online](https://raw.githubusercontent.com/se7enxweb/Book-Building-An-eZPublish-Site/master/source/building-an-ezpubilsh-site-in-2003.pdf), [download](https://raw.githubusercontent.com/se7enxweb/Book-Building-An-eZPublish-Site/master/source/building-an-ezpubilsh-site-in-2003.pdf) or print the book.
 
 ## Microsoft Word
 
